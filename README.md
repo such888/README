@@ -9,9 +9,7 @@ README
 |知乎|[![zhihu-shield]][zhihu]
 |公众号|编程往事
 
-```math
-E = mc^2
-```
+https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
 
 ****
 ## 目录
